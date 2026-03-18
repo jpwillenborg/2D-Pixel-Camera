@@ -35,10 +35,10 @@ Double Jump: Spacebar x2
 
 ## Licenses
 [MIT](./LICENSE)
-<br><br>
+<br>
 
 [2D Soulslike Metroidvania Tileset](https://assetstore.unity.com/packages/2d/environments/2d-soulslike-metroidvania-tileset-295062) by Sam Vieten: Required for the main scene. Available for purchase on the Unity Asset Store. Used under the standard Unity Asset Store EULA.
-<br><br>
+<br>
 
 [Metroidvania Controller](https://assetstore.unity.com/packages/2d/characters/metroidvania-controller-166731) by AisuKaze Studio: Required for the main scene. Available for purchase on the Unity Asset Store. Used under the standard Unity Asset Store EULA.
-<br><br>
+<br>
